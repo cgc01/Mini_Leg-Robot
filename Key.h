@@ -7,3 +7,6 @@ unsigned char Key(void);
 
 extern unsigned char Task;
 #endif
+
+
+#define KEY1_GPIO_Port GPIOA 23
