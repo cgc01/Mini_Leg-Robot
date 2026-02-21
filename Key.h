@@ -10,3 +10,6 @@ extern unsigned char Task;
 
 
 #define KEY1_GPIO_Port GPIOA 23
+
+
+#define KEY2_GPIO_Port GPIOA 24
